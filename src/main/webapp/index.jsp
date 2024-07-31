@@ -4,11 +4,14 @@
 </head>
 <body>
 	<h1>Hello World!</h1>
-<l>Successfully initiated starting of i-077b874fe9636cf9b,i-04431614434e7c09d,i-0821bd6684f06f49e</l>
+<l>Successfully initiated starting</l>
+
+
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
+<h1>Bye World!</h1>
 </body>
